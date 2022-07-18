@@ -1,0 +1,12 @@
+{
+  "name": "boyer/montheme",
+  "type": "wordpress-theme",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "jjgrainger/posttypes": "^2.1"
+  }
+}
